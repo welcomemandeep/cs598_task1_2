@@ -1,0 +1,224 @@
+id,value
+document,
+document.high_ratings,
+document.high_ratings.topic_0
+document.high_ratings.topic_0.menu items,0.00218375
+document.high_ratings.topic_0.after reading,0.001735276
+document.high_ratings.topic_0.so delicious,0.001569051
+document.high_ratings.topic_0.tuesday night,0.0013529476
+document.high_ratings.topic_0.cant remember,0.001220939
+document.high_ratings.topic_0.gluten free,0.0012136025
+document.high_ratings.topic_0.food has,0.0011535137
+document.high_ratings.topic_0.all them,0.001131806
+document.high_ratings.topic_0.best food,0.0011124103
+document.high_ratings.topic_0.way go,0.0011037794
+document.high_ratings.topic_1
+document.high_ratings.topic_1.happy hour,0.0065146517
+document.high_ratings.topic_1.very good,0.005310734
+document.high_ratings.topic_1.have been,0.005090697
+document.high_ratings.topic_1.great food,0.0045073736
+document.high_ratings.topic_1.really good,0.0037179345
+document.high_ratings.topic_1.first time,0.003288562
+document.high_ratings.topic_1.great place,0.0032322118
+document.high_ratings.topic_1.food great,0.00317289
+document.high_ratings.topic_1.love place,0.0030666208
+document.high_ratings.topic_1.great service,0.003001141
+document.high_ratings.topic_2
+document.high_ratings.topic_2.great too,0.0021894171
+document.high_ratings.topic_2.staff were,0.0019415055
+document.high_ratings.topic_2.great selection,0.001847574
+document.high_ratings.topic_2.beer wine,0.0016122195
+document.high_ratings.topic_2.have all,0.0014390437
+document.high_ratings.topic_2.took me,0.0013468876
+document.high_ratings.topic_2.service really,0.0011755953
+document.high_ratings.topic_2.must go,0.0011271221
+document.high_ratings.topic_2.have tried,0.0010586058
+document.high_ratings.topic_2.first bite,0.0010354896
+document.high_ratings.topic_3
+document.high_ratings.topic_3.wine bar,0.0056556044
+document.high_ratings.topic_3.goat cheese,0.004125891
+document.high_ratings.topic_3.wine selection,0.00410186
+document.high_ratings.topic_3.love love,0.002418633
+document.high_ratings.topic_3.middle eastern,0.0023954443
+document.high_ratings.topic_3.go wrong,0.0023806558
+document.high_ratings.topic_3.make sure,0.0020721443
+document.high_ratings.topic_3.strip mall,0.002037273
+document.high_ratings.topic_3.were delicious,0.0019173415
+document.high_ratings.topic_3.tasted like,0.0018138408
+document.high_ratings.topic_4
+document.high_ratings.topic_4.food delicious,0.0045387005
+document.high_ratings.topic_4.outdoor seating,0.0019615225
+document.high_ratings.topic_4.food awesome,0.001783515
+document.high_ratings.topic_4.pita bread,0.0017740391
+document.high_ratings.topic_4.cooked perfectly,0.0016014659
+document.high_ratings.topic_4.very reasonable,0.001584969
+document.high_ratings.topic_4.15 minutes,0.0015604902
+document.high_ratings.topic_4.go place,0.0014398874
+document.high_ratings.topic_4.not just,0.001437275
+document.high_ratings.topic_4.very fresh,0.0013311302
+document.high_ratings.topic_5
+document.high_ratings.topic_5.ordered chicken,0.0034067796
+document.high_ratings.topic_5.creme brulee,0.0016825128
+document.high_ratings.topic_5.horrible service,0.0016037024
+document.high_ratings.topic_5.new place,0.0015166377
+document.high_ratings.topic_5.very flavorful,0.0013655145
+document.high_ratings.topic_5.very disappointed,0.0013298171
+document.high_ratings.topic_5.red pepper,0.0012590301
+document.high_ratings.topic_5.giving stars,0.0011850086
+document.high_ratings.topic_5.chicken breast,0.0011186063
+document.high_ratings.topic_5.were cooked,0.0010529927
+document.high_ratings.topic_6
+document.high_ratings.topic_6.service food,0.0033051078
+document.high_ratings.topic_6.ill definitely,0.001796182
+document.high_ratings.topic_6.one more,0.0016813847
+document.high_ratings.topic_6.great lunch,0.0015700562
+document.high_ratings.topic_6.have tried,0.0013925964
+document.high_ratings.topic_6.service slow,0.0013324692
+document.high_ratings.topic_6.would eat,0.0013316019
+document.high_ratings.topic_6.more time,0.0013312728
+document.high_ratings.topic_6.really enjoy,0.0012632068
+document.high_ratings.topic_6.service has,0.0012525741
+document.high_ratings.topic_7
+document.high_ratings.topic_7.dining experience,0.0022935804
+document.high_ratings.topic_7.small plates,0.0014987416
+document.high_ratings.topic_7.great value,0.0014922479
+document.high_ratings.topic_7.wine beer,0.001489386
+document.high_ratings.topic_7.been few,0.0014175498
+document.high_ratings.topic_7.large group,0.0013204471
+document.high_ratings.topic_7.get your,0.0012498047
+document.high_ratings.topic_7.portion sizes,0.001140894
+document.high_ratings.topic_7.friendly helpful,0.0011222869
+document.high_ratings.topic_7.not recommend,0.0011145625
+document.high_ratings.topic_8
+document.high_ratings.topic_8.service great,0.0033701374
+document.high_ratings.topic_8.really enjoyed,0.0026337854
+document.high_ratings.topic_8.hang out,0.0026023043
+document.high_ratings.topic_8.place great,0.0024775853
+document.high_ratings.topic_8.service good,0.0023533565
+document.high_ratings.topic_8.ice cream,0.0023437766
+document.high_ratings.topic_8.amazing food,0.0022495503
+document.high_ratings.topic_8.food so,0.0021141467
+document.high_ratings.topic_8.not bad,0.0021042554
+document.high_ratings.topic_8.fried rice,0.0020290466
+document.high_ratings.topic_9
+document.high_ratings.topic_9.glass wine,0.003360132
+document.high_ratings.topic_9.live music,0.0033289073
+document.high_ratings.topic_9.too much,0.0025807596
+document.high_ratings.topic_9.would not,0.0022980997
+document.high_ratings.topic_9.were seated,0.0021902812
+document.high_ratings.topic_9.should have,0.0020739457
+document.high_ratings.topic_9.not have,0.0020697203
+document.high_ratings.topic_9.really like,0.002059834
+document.high_ratings.topic_9.were so,0.0020563775
+document.high_ratings.topic_9.were only,0.0020037196
+document.low_ratings,
+document.low_ratings.topic_0,
+document.low_ratings.topic_0.wine selection,0.0006521359
+document.low_ratings.topic_0.thai food,0.00053998973
+document.low_ratings.topic_0.fast food,0.00045491697
+document.low_ratings.topic_0.every time,0.00040156188
+document.low_ratings.topic_0.great wine,0.00037102407
+document.low_ratings.topic_0.only one,0.00033171725
+document.low_ratings.topic_0.live music,0.00033127735
+document.low_ratings.topic_0.only complaint,0.00029674036
+document.low_ratings.topic_0.good selection,0.00029491773
+document.low_ratings.topic_0.place definitely,0.0002909067
+document.low_ratings.topic_1,
+document.low_ratings.topic_1.food excellent,0.00041234939
+document.low_ratings.topic_1.every time,0.00038950203
+document.low_ratings.topic_1.time go,0.00034461607
+document.low_ratings.topic_1.cant go,0.00030399408
+document.low_ratings.topic_1.food pretty,0.00027435194
+document.low_ratings.topic_1.excellent service,0.00026288698
+document.low_ratings.topic_1.went lunch,0.0002303911
+document.low_ratings.topic_1.any time,0.00021494486
+document.low_ratings.topic_1.super fun,0.00021100137
+document.low_ratings.topic_1.very affordable,0.00021051048
+document.low_ratings.topic_2,
+document.low_ratings.topic_2.not really,0.00029368006
+document.low_ratings.topic_2.asian food,0.00023582469
+document.low_ratings.topic_2.both times,0.00021861268
+document.low_ratings.topic_2.love love,0.00021829456
+document.low_ratings.topic_2.place food,0.00021738773
+document.low_ratings.topic_2.your friends,0.0001987
+document.low_ratings.topic_2.weeks ago,0.00018621556
+document.low_ratings.topic_2.love place,0.00017850046
+document.low_ratings.topic_2.could ask,0.00017231927
+document.low_ratings.topic_2.just ok,0.00017016726
+document.low_ratings.topic_3,
+document.low_ratings.topic_3.really tasty,0.00028626274
+document.low_ratings.topic_3.glad did,0.00028466628
+document.low_ratings.topic_3.every time,0.00028334468
+document.low_ratings.topic_3.not great,0.00027474645
+document.low_ratings.topic_3.good not,0.00026869006
+document.low_ratings.topic_3.pad thai,0.00024947326
+document.low_ratings.topic_3.your own,0.00024894884
+document.low_ratings.topic_3.drinks were,0.0002474806
+document.low_ratings.topic_3.very flavorful,0.00023139581
+document.low_ratings.topic_3.food reasonable,0.00022899947
+document.low_ratings.topic_4,
+document.low_ratings.topic_4.soooo good,0.00029617007
+document.low_ratings.topic_4.grocery store,0.00022901595
+document.low_ratings.topic_4.dont even,0.00021759886
+document.low_ratings.topic_4.great happy,0.0002088611
+document.low_ratings.topic_4.over priced,0.00020320415
+document.low_ratings.topic_4.place get,0.00019158286
+document.low_ratings.topic_4.its like,0.00018445794
+document.low_ratings.topic_4.wine selection,0.0001627562
+document.low_ratings.topic_4.really delicious,0.00015984503
+document.low_ratings.topic_4.nachos were,0.00015177083
+document.low_ratings.topic_5,
+document.low_ratings.topic_5.get there,0.00033899976
+document.low_ratings.topic_5.some best,0.00026463842
+document.low_ratings.topic_5.such great,0.00025940518
+document.low_ratings.topic_5.restaurant so,0.00025308746
+document.low_ratings.topic_5.food food,0.00024875964
+document.low_ratings.topic_5.quick service,0.0002362856
+document.low_ratings.topic_5.food just,0.0002338151
+document.low_ratings.topic_5.place went,0.00023328153
+document.low_ratings.topic_5.go there,0.0002315621
+document.low_ratings.topic_5.potato fries,0.00022345652
+document.low_ratings.topic_6,
+document.low_ratings.topic_6.good not,0.00044952205
+document.low_ratings.topic_6.so can,0.00040996718
+document.low_ratings.topic_6.were only,0.00040342798
+document.low_ratings.topic_6.taste like,0.00029971596
+document.low_ratings.topic_6.may have,0.00029283192
+document.low_ratings.topic_6.hard find,0.00026580325
+document.low_ratings.topic_6.not great,0.00026442582
+document.low_ratings.topic_6.portion sizes,0.0002488306
+document.low_ratings.topic_6.way better,0.00024602146
+document.low_ratings.topic_6.place not,0.00024592833
+document.low_ratings.topic_7,
+document.low_ratings.topic_7.middle eastern,0.00036760262
+document.low_ratings.topic_7.great selection,0.0003400796
+document.low_ratings.topic_7.were friendly,0.00033537147
+document.low_ratings.topic_7.authentic mexican,0.0003081151
+document.low_ratings.topic_7.happy hour,0.0002809508
+document.low_ratings.topic_7.food average,0.00025927648
+document.low_ratings.topic_7.also have,0.00021090911
+document.low_ratings.topic_7.so nice,0.00019821309
+document.low_ratings.topic_7.cheap too,0.00019525625
+document.low_ratings.topic_7.bbq chicken,0.00019308098
+document.low_ratings.topic_8,
+document.low_ratings.topic_8.happy hour,0.0037171987
+document.low_ratings.topic_8.have been,0.002354285
+document.low_ratings.topic_8.very good,0.0021938453
+document.low_ratings.topic_8.filipino food,0.001817664
+document.low_ratings.topic_8.great place,0.0015845972
+document.low_ratings.topic_8.great food,0.001554872
+document.low_ratings.topic_8.first time,0.0015529997
+document.low_ratings.topic_8.would have,0.0014741184
+document.low_ratings.topic_8.great service,0.0014637627
+document.low_ratings.topic_8.love place,0.0014601423
+document.low_ratings.topic_9,
+document.low_ratings.topic_9.not good,0.00071574096
+document.low_ratings.topic_9.would not,0.0005654314
+document.low_ratings.topic_9.also have,0.0005143744
+document.low_ratings.topic_9.good place,0.00044748228
+document.low_ratings.topic_9.just ok,0.00043538588
+document.low_ratings.topic_9.food just,0.00042874322
+document.low_ratings.topic_9.15 minutes,0.00042656274
+document.low_ratings.topic_9.tasted like,0.00042247272
+document.low_ratings.topic_9.dont have,0.00041896838
+document.low_ratings.topic_9.food ordered,0.0004178392
